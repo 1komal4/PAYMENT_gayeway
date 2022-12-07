@@ -1,1 +1,1 @@
-# PAYMENT_gayeway
+# PAYMENT_gateway
